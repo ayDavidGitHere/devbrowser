@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+	
+	<item
+        android:id="@+id/reload_page"
+        android:title="Reload Page"/>
+	
+    <item
+        android:id="@+id/m1"
+        android:title="Open Url Box"/>
+
+    <item
+        android:id="@+id/m2"
+        android:title="Open Display Size Menu"/>
+
+    <item
+        android:id="@+id/m3"
+        android:title="Take Webpage Screenshot"/>
+</menu>
